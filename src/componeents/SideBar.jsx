@@ -2,7 +2,7 @@ import { Avatar, styled, Tooltip, Typography, useTheme } from "@mui/material";
 import React from "react";
 import List from "@mui/material/List";
 // @ts-ignore
-import houimag from "../photo/houimag_page-0001.jpg";
+import houimag from "../photo/me.png";
 //import mimg from '../photo/Messenger_creation_5c87ed01-d936-41ca-a541-b53a2c594a82.jpeg'
 import Divider from "@mui/material/Divider";
 import IconButton from "@mui/material/IconButton";
